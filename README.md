@@ -1,2 +1,1 @@
-# Stats
-Stats
+[![Martin's github stats](https://github-readme-stats.vercel.app/api?username=marvic2409)](https://github.com/anuraghazra/github-readme-stats)
